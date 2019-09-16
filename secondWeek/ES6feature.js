@@ -63,3 +63,6 @@ function f() {
 
 
  //  ECMA means European Computer Manufacturer’s Association
+
+ //http://es6-features.org/#SpreadOperator
+//  https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla
